@@ -1,0 +1,2 @@
+class Ator < ApplicationRecord
+end
